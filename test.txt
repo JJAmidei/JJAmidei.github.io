@@ -8,3 +8,15 @@
     <p>This is a test page. More coming soon.</p>
   </body>
 </html>
+
+<style>
+      body {
+        background-color: #000000;
+        color: #f0f0f0;
+        font-family: Arial, sans-serif;
+      }
+
+      h1 {
+        color: #0076cc;
+      }
+    </style>
