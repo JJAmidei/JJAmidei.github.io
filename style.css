@@ -24,3 +24,8 @@ a:hover {
 a:visited {
   color: #551A8B;
 }
+
+nav a {
+  display: block;
+  margin: 5px 0; 
+} 
